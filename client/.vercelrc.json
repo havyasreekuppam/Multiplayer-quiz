@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "env": {
+    "REACT_APP_API_URL": {
+      "description": "Backend API URL",
+      "default": "http://localhost:5000/api"
+    },
+    "REACT_APP_SOCKET_URL": {
+      "description": "Socket.io server URL",
+      "default": "http://localhost:5000"
+    }
+  },
+  "buildCommand": "npm run build",
+  "outputDirectory": "build"
+}
