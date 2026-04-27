@@ -22,7 +22,6 @@ Enterprise-ready MERN stack application with advanced real-time multiplayer quiz
 - **Socket.io** - Real-time WebSocket communication
 - **Redis** - Distributed caching and rate limiting
 - **Winston** - Structured logging
-- **OpenAI** - AI question generation
 - **Jest + Supertest** - Comprehensive testing
 
 ### Frontend
