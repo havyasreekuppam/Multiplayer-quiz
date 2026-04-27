@@ -20,7 +20,6 @@ Enterprise-ready MERN stack application with advanced real-time multiplayer quiz
 - **Node.js** + **Express.js** - Server framework
 - **MongoDB** - Database with Mongoose ODM
 - **Socket.io** - Real-time WebSocket communication
-- **JWT** - Secure token-based authentication
 - **Redis** - Distributed caching and rate limiting
 - **Winston** - Structured logging
 - **OpenAI** - AI question generation
